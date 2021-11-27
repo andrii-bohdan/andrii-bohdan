@@ -1,3 +1,8 @@
+
+![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+<br>
+
 ### Hi, there, I'm Andrew - aka ItHusleCoder
 
 ## I'm self-taught Developer
@@ -15,7 +20,7 @@
 <img align="left" alt="Vue" width="36px" src="https://img.icons8.com/color/40/000000/vue-js.png" />
 <img align="left" alt="Laravel" width="36px" src="https://img.icons8.com/fluency/40/000000/laravel.png" />
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png" />
+<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/ios/50/000000/mysql.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
