@@ -1,14 +1,17 @@
 
-![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
-
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+</p>
 <br>
 
-### Hi, there, I'm Andrew - aka ItHusleCoder
+## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### I'm Andrew - aka ItHustleCoder
 
 ## I'm self-taught Developer
-- 🔭 I'm currently working on a [ReactNative-FocusTimeApp]
+- 🔭 I'm currently working on  **ReactNative e-commers shop MealsToGo**
 - 📚 I'm currently learning React Native, Typescript
-- 🎯 
+- 🎯 2021 goals: Learn to build scalable application with a huge flow
 
 
 ### Languages and Tools:
