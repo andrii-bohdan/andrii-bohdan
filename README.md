@@ -9,9 +9,9 @@
 ### I'm Andrew - aka ItHustleCoder
 
 ## I'm self-taught Developer
-- 🔭 I'm currently working on  **ReactNative e-commers shop MealsToGo**
+- 🔭 I'm currently working on  **Vonage API**
 - 📚 I'm currently learning React Native, Typescript
-- 🎯 2022 goals: Learn to build scalable application with a huge flow
+- 🎯 2022-2023 goals: Learn to build scalable application with a huge flow
 
 
 ### Languages and Tools:
