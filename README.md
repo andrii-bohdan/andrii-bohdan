@@ -9,8 +9,8 @@
 ### I'm Andrew - aka ItHustleCoder
 
 ## I'm self-taught Developer
-- 🔭 I'm currently working on  **VpiuCRM**
-- 📚 I'm currently learning React Native, Typescript
+- 🔭 I'm currently working on  **NestJS**
+- 📚 I'm currently learning NestJS, Typescript
 - 🎯 2022-2023 goals: Learn to build scalable application with a huge flow
 
 
