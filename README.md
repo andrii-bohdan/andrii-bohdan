@@ -10,7 +10,7 @@
 
 ## I'm self-taught Developer
 - 🔭 I'm currently working on  **NestJS**
-- 📚 I'm currently learning NestJS, Typescript
+- 📚 I'm currently learning NestJS, Typescript, Rust, Go
 - 🎯 2022-2023 goals: Learn to build scalable application with a huge flow
 
 
