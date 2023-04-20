@@ -6,12 +6,12 @@
 
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-### I'm Andrew - aka ItHustleCoder
+### I'm Andrii
 
 ## I'm self-taught Developer
 - 🔭 I'm currently working at **Amplifon**
 - 📚 I'm currently learning NestJS, Typescript, Rust, Go
-- 🎯 2022-2023 goals: Learn to build scalable application with a huge flow
+- 🎯 2023-2024 goals: Learn to build scalable application with a huge flow
 
 
 ### Languages and Tools:
